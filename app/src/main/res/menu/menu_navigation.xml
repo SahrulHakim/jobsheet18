@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/pplg"
+        android:title="PPLG"/>
+
+    <item
+        android:id="@+id/busana"
+        android:title="Busana"/>
+
+    <item
+        android:id="@+id/tl"
+        android:title="TL"/>
+
+    <item
+        android:id="@+id/kuliner"
+        android:title="Kuliner"/>
+
+    <item
+        android:id="@+id/to"
+        android:title="TO"/>
+
+
+
+
+</menu>
